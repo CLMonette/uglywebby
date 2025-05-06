@@ -1,27 +1,46 @@
+body {
+    background-color:aqua
+    filter; color-mix:last-child
+
+    font-weight; absolute
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
 h1 {
-    color: #111;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
+    color: orange;
+    font-family: 'curlz MT',Impact;
+    font-size: 75px;
     font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
+    letter-spacing: -3px;
+    line-height: 1.5;
+    text-align: left;
 }
 
 p {
     color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0 0 24px;
-    text-align: justify;
+    font-family: 'Franklin Gothic', 'Gill Sans', 'Gill Sans MT';
+    font-size: 1px;
+    line-height: 1px;
+    margin: 0 0 1px;
+    text-align: match-parent;
     text-justify: inter-word;
 }
 
 textarea {
     margin: 20px;
     width: 300px;
-    height: 150px;
+    height: 50px;
 }
 
 ul, ol {
@@ -31,7 +50,7 @@ ul, ol {
 
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 20px solid #ccc;
 }
    
 li:last-child {
